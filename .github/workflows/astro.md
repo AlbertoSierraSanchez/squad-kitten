@@ -7,8 +7,7 @@ on:
         required: false
         type: string
 
-permissions:
-  contents: read
+permissions: {}
 
 safe-outputs:
   create-pull-request: {}
